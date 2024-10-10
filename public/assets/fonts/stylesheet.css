@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'FC Subject';
+    src: url('FCSubject-Bold.eot');
+    src: url('FCSubject-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-Bold.woff2') format('woff2'),
+        url('FCSubject-Bold.woff') format('woff'),
+        url('FCSubject-Bold.ttf') format('truetype'),
+        url('FCSubject-Bold.svg#FCSubject-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject';
+    src: url('FCSubject-Thin.eot');
+    src: url('FCSubject-Thin.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-Thin.woff2') format('woff2'),
+        url('FCSubject-Thin.woff') format('woff'),
+        url('FCSubject-Thin.ttf') format('truetype'),
+        url('FCSubject-Thin.svg#FCSubject-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject';
+    src: url('FCSubject-Heavy.eot');
+    src: url('FCSubject-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-Heavy.woff2') format('woff2'),
+        url('FCSubject-Heavy.woff') format('woff'),
+        url('FCSubject-Heavy.ttf') format('truetype'),
+        url('FCSubject-Heavy.svg#FCSubject-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject';
+    src: url('FCSubject-Light.eot');
+    src: url('FCSubject-Light.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-Light.woff2') format('woff2'),
+        url('FCSubject-Light.woff') format('woff'),
+        url('FCSubject-Light.ttf') format('truetype'),
+        url('FCSubject-Light.svg#FCSubject-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject ExtLt';
+    src: url('FCSubject-ExtraLight.eot');
+    src: url('FCSubject-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-ExtraLight.woff2') format('woff2'),
+        url('FCSubject-ExtraLight.woff') format('woff'),
+        url('FCSubject-ExtraLight.ttf') format('truetype'),
+        url('FCSubject-ExtraLight.svg#FCSubject-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject';
+    src: url('FCSubject-Regular.eot');
+    src: url('FCSubject-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-Regular.woff2') format('woff2'),
+        url('FCSubject-Regular.woff') format('woff'),
+        url('FCSubject-Regular.ttf') format('truetype'),
+        url('FCSubject-Regular.svg#FCSubject-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject Med';
+    src: url('FCSubject-Medium.eot');
+    src: url('FCSubject-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-Medium.woff2') format('woff2'),
+        url('FCSubject-Medium.woff') format('woff'),
+        url('FCSubject-Medium.ttf') format('truetype'),
+        url('FCSubject-Medium.svg#FCSubject-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject SemBd';
+    src: url('FCSubject-SemiBold.eot');
+    src: url('FCSubject-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-SemiBold.woff2') format('woff2'),
+        url('FCSubject-SemiBold.woff') format('woff'),
+        url('FCSubject-SemiBold.ttf') format('truetype'),
+        url('FCSubject-SemiBold.svg#FCSubject-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject ExtBd';
+    src: url('FCSubject-ExtraBold.eot');
+    src: url('FCSubject-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-ExtraBold.woff2') format('woff2'),
+        url('FCSubject-ExtraBold.woff') format('woff'),
+        url('FCSubject-ExtraBold.ttf') format('truetype'),
+        url('FCSubject-ExtraBold.svg#FCSubject-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject ExtBlk';
+    src: url('FCSubject-ExtraBlack.eot');
+    src: url('FCSubject-ExtraBlack.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-ExtraBlack.woff2') format('woff2'),
+        url('FCSubject-ExtraBlack.woff') format('woff'),
+        url('FCSubject-ExtraBlack.ttf') format('truetype'),
+        url('FCSubject-ExtraBlack.svg#FCSubject-ExtraBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Subject';
+    src: url('FCSubject-Black.eot');
+    src: url('FCSubject-Black.eot?#iefix') format('embedded-opentype'),
+        url('FCSubject-Black.woff2') format('woff2'),
+        url('FCSubject-Black.woff') format('woff'),
+        url('FCSubject-Black.ttf') format('truetype'),
+        url('FCSubject-Black.svg#FCSubject-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
